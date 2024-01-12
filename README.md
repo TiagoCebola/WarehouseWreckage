@@ -1,7 +1,7 @@
 <h1 align="center"> Warehouse Wreckage - The Game </h1>
 
 <p align="center">
-This project was developed during an online course, promoted by GameDev.tv to teach Programming, Object Oriented, Unreal and Blueprint basics.
+This project was developed during an online course, promoted by GameDev.tv to teach Programming and Unreal Engine 5 basics.
 </p>
 
 <p align="center">

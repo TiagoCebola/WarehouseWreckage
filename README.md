@@ -7,7 +7,12 @@ This project was developed during an online course, promoted by GameDev.tv to te
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="#project">Project</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="#game-footage">Game Footage</a>
+  <a href="#game-footage">Game Footage</a> |&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
@@ -50,6 +55,10 @@ Have you ever thought about unloading your problems in a warehouse? That's what 
 </p>
 
 https://github.com/TiagoCebola/WarehouseWreckage/assets/80770795/54fcc7a7-da03-42df-9cc6-30b44f2cf024
+
+## :memo: License
+
+This project is under the MIT License
 
 ---
 

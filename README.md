@@ -7,7 +7,7 @@ This project was developed during an online course, promoted by GameDev.tv to te
 <p align="center">
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="#project">Project</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
-  <a href="#game-footage">Game Footage</a> |&nbsp;&nbsp;&nbsp;
+  <a href="#game-footage">Game Footage</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
